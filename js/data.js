@@ -1,7 +1,7 @@
 // The Flavour Fusion Database (35 Recipes)
 const recipes = [
     // VEG
-    { id: "v1", title: "Palak Paneer", tags: ["Veg", "High Protein"], image: "https://www.indianveggiedelight.com/wp-content/uploads/2017/10/palak-paneer-recipe-featured.jpg", pageLink: "recipe.html", videoLink: "/Videos/palak.mp4",
+    { id: "v1", title: "Palak Paneer", tags: ["Veg", "High Protein"], image: "https://www.indianveggiedelight.com/wp-content/uploads/2017/10/palak-paneer-recipe-featured.jpg", pageLink: "recipe.html", videoLink: "Videos/palak.mp4",
         ingredients: [ { amount: 250, unit: "grams", name: "Paneer (cubed)" }, { amount: 3, unit: "cups", name: "Spinach leaves" }, { amount: 1, unit: "tbsp", name: "Ghee or Butter" }, { amount: 2, unit: "medium", name: "Onions (finely chopped)" }, { amount: 0.5, unit: "cup", name: "Heavy Cream" }, { amount: 1, unit: "tsp", name: "Garam Masala" } ]
     },
     { id: "v2", title: "Daal Makhani", tags: ["Veg"], image: "https://myfoodstory.com/wp-content/uploads/2018/08/Dal-Makhani-New-3.jpg", pageLink: "recipe.html", videoLink: "/Videos/dal.mp4",
