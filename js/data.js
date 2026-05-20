@@ -100,7 +100,7 @@ const recipes = [
     { id: "hp3", title: "Soya Chunk Curry", tags: ["High Protein", "Veg"], image: "https://d1mxd7n691o8sz.cloudfront.net/static/recipe/recipe/2023-06/Kholapuri-soya-curry-aa230a34658e44feb50e5f1cd79ed9e7.jpg", pageLink: "recipe.html", videoLink: "Videos/soya_chunk_curry.mp4",
         ingredients: [ { amount: 1, unit: "cup", name: "Soya Chunks (boiled)" }, { amount: 2, unit: "medium", name: "Tomatoes (pureed)" }, { amount: 1, unit: "large", name: "Onion (paste)" }, { amount: 1, unit: "tbsp", name: "Ginger-Garlic Paste" }, { amount: 1, unit: "tsp", name: "Coriander Powder" }, { amount: 1, unit: "tbsp", name: "Oil" } ]
     },
-    { id: "hp4", title: "Boiled Egg Chaat", tags: ["High Protein", "Non-Veg", "2 Minute Snacks"], image: "https://www.whiskaffair.com/wp-content/uploads/2020/12/Egg-Chaat-2-1.jpg", pageLink: "recipe.html", videoLink: "Videos/palak.mp4",
+    { id: "hp4", title: "Boiled Egg Chaat", tags: ["High Protein", "Non-Veg", "2 Minute Snacks"], image: "https://www.whiskaffair.com/wp-content/uploads/2020/12/Egg-Chaat-2-1.jpg", pageLink: "recipe.html", videoLink: "Videos/egg.mp4",
         ingredients: [ { amount: 4, unit: "whole", name: "Boiled Eggs (halved)" }, { amount: 1, unit: "small", name: "Onion (chopped)" }, { amount: 1, unit: "small", name: "Tomato (chopped)" }, { amount: 1, unit: "tsp", name: "Chaat Masala" }, { amount: 1, unit: "tbsp", name: "Green Chutney" }, { amount: 1, unit: "tbsp", name: "Fresh Coriander" } ]
     },
 
